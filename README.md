@@ -1,6 +1,8 @@
+<div>
 <h1 align="center">Hi 👋, I'm Ali Pakdelnia</h1>
-<h1 align="center">چون فارسی رو دوست دارم:</h1>
-<h2 align="center">درود 👋، من علی پاکدل نیا هستم </h2>
+<h1 align="end">چون فارسی رو دوست دارم:</h1>
+<h2 align="start">درود 👋، من علی پاکدل نیا هستم </h2>
+</div>
 
 # 💫 About Me:
 I am just a Developer. Thats all
