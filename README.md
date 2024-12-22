@@ -43,5 +43,7 @@ I am just a Developer. Thats all <br>
 ---
 [![](https://visitcount.itsvg.in/api?id=alipakdelnia&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
