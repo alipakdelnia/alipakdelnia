@@ -27,6 +27,8 @@ I am just a Developer. Thats all <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=GIT&logoColor=white)
+
 
 # 📊 GitHub Stats:
 [![alinabizadeh github stats](https://bad-apple-github-readme.vercel.app/api?username=alipakdelnia&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
@@ -39,6 +41,9 @@ I am just a Developer. Thats all <br>
 
 [![alinabizadeh current streak](https://streak-stats.demolab.com/?user=alipakdelnia&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
+<br />
+
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alipakdelnia&theme=react)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alipakdelnia&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
