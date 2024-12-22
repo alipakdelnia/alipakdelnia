@@ -6,7 +6,7 @@
 </div>
 
 # 💫 About Me:
-I am just a Developer. Thats all <br>
+I am just a Developer. Thats all. I don't say anything and I prefere my Honer - [PsychoApp🧠](https://github.com/alipakdelnia/psychoApp) say  <br>
 🎼🧑‍💻🚘📸🏞️ <br>
 🎹🎹🎹🎹🎹 
 
