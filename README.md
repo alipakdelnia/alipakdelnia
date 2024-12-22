@@ -29,9 +29,16 @@ I am just a Developer. Thats all <br>
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alipakdelnia&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alipakdelnia&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alipakdelnia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![alinabizadeh github stats](https://bad-apple-github-readme.vercel.app/api?username=alipakdelnia&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+
+ <br />
+ 
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=alipakdelnia&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+<br />
+
+[![alinabizadeh current streak](https://streak-stats.demolab.com/?user=alipakdelnia&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alipakdelnia&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
