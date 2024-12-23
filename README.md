@@ -1,6 +1,6 @@
 <div>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Ali+Pakdelnia;Developer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+,+I'm+Ali+Pakdelnia;Developer;" />
 </h1>
 <h3 align="center" class="color=text-primary;">درود <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />، من علی پاکدل نیا هستم </h3>
 </div>
