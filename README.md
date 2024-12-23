@@ -13,7 +13,7 @@ I am just a developer, that's all. I don't say much and prefer to let my fullsta
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-pakdelnia-a31725232/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-pakdelnia/) 
 
 # 💻 Tech Stack:
 ![.Net Core](https://img.shields.io/badge/.NET%20Core-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white) 
