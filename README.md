@@ -31,7 +31,7 @@ I am just a developer, that's all. I don't say much and prefer to let my fullsta
 
 
 # 📊 GitHub Stats:
-[![alinabizadeh github stats](https://bad-apple-github-readme.vercel.app/api?username=alipakdelnia&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+[![alipakdelnia github stats](https://bad-apple-github-readme.vercel.app/api?username=alipakdelnia&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
 
  <br />
  
@@ -39,7 +39,7 @@ I am just a developer, that's all. I don't say much and prefer to let my fullsta
 
 <br />
 
-[![alinabizadeh current streak](https://streak-stats.demolab.com/?user=alipakdelnia&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![alipakdelnia current streak](https://streak-stats.demolab.com/?user=alipakdelnia&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 <br />
 
