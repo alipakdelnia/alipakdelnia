@@ -5,18 +5,19 @@
 <h3 align="center" class="color=text-primary;">درود <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />، من علی پاکدل نیا هستم </h3>
 </div>
 
-# 💫 About Me:
+# <p align="left">💫 About Me: <div align="end"> [![](https://visitcount.itsvg.in/api?id=alipakdelnia&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in) </div></p>
 I am just a developer, that's all. I don't say much and prefer to let my fullstack project — [PsychoApp🧠](https://github.com/alipakdelnia/psychoApp) — speak for itself.  
 🎼🧑‍💻🚘📸🏞️ <br>
 🎹🎹🎹🎹🎹 <br>
 
-[![](https://visitcount.itsvg.in/api?id=alipakdelnia&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 
 
 ## 🌐 Socials:
 <p align="left">
 <a href="https://www.linkedin.com/in/ali-pakdelnia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali pakdelnia" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22346402/ali-pakdelnia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ali pakdelnia" height="30" width="40" /></a>
+<a href="https://t.me/Ali_pakdelnia" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="ali pakdelnia" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
