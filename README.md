@@ -36,9 +36,9 @@ I am just a developer, that's all. I don't say much and prefer to let my fullsta
 
 # 📊 GitHub Stats:
 
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=alipakdelnia&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
 [![alipakdelnia current streak](https://streak-stats.demolab.com/?user=alipakdelnia&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=alipakdelnia&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 <br />
 
