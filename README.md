@@ -8,12 +8,16 @@
 # 💫 About Me:
 I am just a developer, that's all. I don't say much and prefer to let my fullstack project — [PsychoApp🧠](https://github.com/alipakdelnia/psychoApp) — speak for itself.  
 🎼🧑‍💻🚘📸🏞️ <br>
-🎹🎹🎹🎹🎹 
+🎹🎹🎹🎹🎹 <br>
 
+[![](https://visitcount.itsvg.in/api?id=alipakdelnia&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-pakdelnia/) 
+<p align="left">
+<a href="https://www.linkedin.com/in/ali-pakdelnia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali pakdelnia" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22346402/ali-pakdelnia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ali pakdelnia" height="30" width="40" /></a>
+</p>
 
 # 💻 Tech Stack:
 ![.Net Core](https://img.shields.io/badge/.NET%20Core-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white) 
@@ -31,22 +35,21 @@ I am just a developer, that's all. I don't say much and prefer to let my fullsta
 
 
 # 📊 GitHub Stats:
-[![alipakdelnia github stats](https://bad-apple-github-readme.vercel.app/api?username=alipakdelnia&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
 
- <br />
- 
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=alipakdelnia&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
-<br />
 
 [![alipakdelnia current streak](https://streak-stats.demolab.com/?user=alipakdelnia&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 <br />
 
+[![alipakdelnia github stats](https://bad-apple-github-readme.vercel.app/api?username=alipakdelnia&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+
+ <br />
+ 
+
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alipakdelnia&theme=react)
 
----
-[![](https://visitcount.itsvg.in/api?id=alipakdelnia&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
