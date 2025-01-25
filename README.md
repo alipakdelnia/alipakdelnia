@@ -5,7 +5,7 @@
 <h3 align="center" class="color=text-primary;">درود <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />، من علی پاکدل نیا هستم </h3>
 </div>
 
-# <p align="left">💫 About Me: <div align="end"> [![](https://visitcount.itsvg.in/api?id=alipakdelnia&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in) </div></p>
+# <p align="left">💫 About Me: </p>
 I am just a developer, that's all. I don't say much and prefer to let my fullstack project — [PsychoApp🧠](https://github.com/alipakdelnia/psychoApp) — speak for itself.  
 🎼🧑‍💻🚘📸🏞️ <br>
 🎹🎹🎹🎹🎹 <br>
