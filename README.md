@@ -6,7 +6,7 @@
 </div>
 
 # <p align="left">💫 About Me: </p>
-I am just a developer, that's all. I don't say much and prefer to let my fullstack project — [PsychoApp🧠](https://github.com/alipakdelnia/psychoApp) — speak for itself.  
+I am just a developer, that's all. I don't say much and prefer to let my fullstack project — [PsychoApp🧠](https://github.com/alipakdelnia/psychoApp) — speak for itself...  
 🎼🧑‍💻🚘📸🏞️ <br>
 🎹🎹🎹🎹🎹 <br>
 
